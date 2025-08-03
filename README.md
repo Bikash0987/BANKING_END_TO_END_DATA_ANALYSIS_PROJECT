@@ -37,10 +37,6 @@ Multiple relational tables:
 - DAX
 - Relational Modeling
 
-## 📬 Contact
-**Author**: Bikash Koiri  
-**LinkedIn**: [Your Profile]  
-**Email**: [Your Email]
 
-## 📄 License
-MIT License
+
+
